@@ -494,9 +494,7 @@ Cette procédure permet d’éviter la dégradation du modèle liée au **data d
 
 ---
 
-# Auteur
 
-Projet réalisé dans le cadre d’un projet de déploiement de modèle de machine learning.
  
  
 
